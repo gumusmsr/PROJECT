@@ -13,6 +13,7 @@ SELECTİON SORT PROJESİ
 
 		
 	Big-O gösterimini yazınız.
+	
 Big O : O(n^2)
 
 
