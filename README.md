@@ -12,11 +12,11 @@ SELECTİON SORT PROJESİ
 4. [2,6,16,18,22,27]		(1)
 
 		
-			Big-O gösterimini yazınız.
+	Big-O gösterimini yazınız.
 Big O : O(n^2)
 
 
-			Time Complexity: Dizi sıralandıktan sonra 18 sayısı aşağıdaki case'lerden hangisinin kapsamına girer? Yazınız.
+	Time Complexity: Dizi sıralandıktan sonra 18 sayısı aşağıdaki case'lerden hangisinin kapsamına girer? Yazınız.
 
 1.Average case: Aradığımız sayının ortada olması
 
